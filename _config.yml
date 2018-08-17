@@ -8,11 +8,11 @@ menu:
 - page: home
   url: /
   icon:
-- page: 前端
-  url: /categories/前端/
+- page: 技术
+  url: /categories/技术/
   icon:
-- page: 后端
-  url: /categories/后端/
+- page: 生活
+  url: /categories/生活/
   icon:
 - page: 工具
   url: /categories/工具/
@@ -29,7 +29,7 @@ rss: /atom.xml
 
 ## Carousel
 carousel:
-  img: img/head-img.jpg
+  img: 
 
 # 各个小工具的设置
 
@@ -56,29 +56,17 @@ jsonContent:
 
 ## 网站公告设置
 notification: |-
-            <p>主题Snippet v1.2.1版本已经上线！欢迎更新~ <br/>
-            主题下载：<a href="https://github.com/shenliyang/hexo-theme-snippet" title="fork me" target="_blank">Snippet主题</a> <br/>
-            主题使用：<a href="https://github.com/shenliyang/hexo-theme-snippet/blob/master/README.md#常见问题" title="" target="_blank">常见使用问题</a> <br/>
-            <hr/>接受贡献，包括不限于提交问题与需求，修复代码。欢迎Pull Request<br/>支持主题：<a href="https://github.com/shenliyang/hexo-theme-snippet/stargazers">Star一下</a>
+            <p>暂无
             </p>
 
 ## 社交设置
 social:
  - name: Github
    icon: git
-   href: //github.com/shenliyang
+   href: //github.com/wangchao523
  - name: 邮箱
    icon: envelope-o
-   href: mailto:snippet@91h5.cc
- - name: 联系QQ
-   icon: qq
-   href: /
- - name: 微信
-   icon: weixin
-   href: /
- - name: QQ群
-   icon: users
-   href: /
+   href: mailto:wangchao523@126.com
  - name: RSS
    icon: feed
    href: /atom.xml
@@ -102,11 +90,11 @@ links:
 # 主题自定义个性化配置
 
 ## 网站宣传语
-branding:
+branding: Corey.Wang
 
 ## 设置banner背景图片
 banner:
-    img: http://7xpw2b.com1.z0.glb.clouddn.com/hexo-sinppet/img/banner.jpg
+    img: 
 
 ## 首页列表底部面板
 homePanel: true
@@ -140,7 +128,7 @@ declaration:
   enable: true
   title: '转载声明'
   tip: |-
-      商业转载请联系作者获得授权,非商业转载请注明出处 © <a href="" target="_blank">Snippet</a>
+      商业转载请联系作者获得授权,非商业转载请注明出处 © Corey.Wang
 
 
 ## 主题评论
